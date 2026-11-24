@@ -14,7 +14,7 @@ An offline SOS and messaging app for Android that hops phone to phone — no sig
 </p>
 
 <p align="center">
-  <a href="#%EF%B8%8F-watch-hopiya-in-30-seconds">Video</a> ·
+  <a href="#%EF%B8%8F-see-hopiya-in-action">Video</a> ·
   <a href="#-why-hopiya">Why</a> ·
   <a href="#-how-a-message-finds-help">How it works</a> ·
   <a href="#-features">Features</a> ·
@@ -28,12 +28,12 @@ An offline SOS and messaging app for Android that hops phone to phone — no sig
 
 > **This repository is a showcase.** It contains the description, screenshots, artwork and the downloadable app — **not the source code**. The complete source code is sold separately at **[nithindevasia.com](https://www.nithindevasia.com/innovations.php)**.
 
-## ▶️ Watch: Hopiya in 30 seconds
+## ▶️ See Hopiya in action
 
 <p align="center">
-  <a href="media/hopiya-promo.mp4"><img src="media/video-poster.jpg" alt="Play the 30-second Hopiya video" width="100%"></a>
+  <a href="media/hopiya-promo.mp4"><img src="media/video-poster.jpg" alt="Play the Hopiya video" width="100%"></a>
 </p>
-<p align="center"><sub>Click the image to play the video · <a href="media/hopiya-promo.mp4">hopiya-promo.mp4</a> (vertical, 32 s, AI-generated presenter)</sub></p>
+<p align="center"><sub>Click the image to play the video · <a href="media/hopiya-promo.mp4">hopiya-promo.mp4</a> (AI-generated presenter)</sub></p>
 
 ---
 
